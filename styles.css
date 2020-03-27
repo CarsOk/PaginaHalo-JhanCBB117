@@ -6,12 +6,19 @@
 }
 header{
   width: 100%;
-  height: 50px;
+  height: 90px;
   border-style: solid;
   border-color: rgb(69, 227, 213)
 
 }
+
+.h{
+  margin-top: -80px;
+  width: 500px;
+}
 li{
+  position: relative;
+  top: -140px;
   margin: 40px 40px 40px;
   display: inline;
 }
