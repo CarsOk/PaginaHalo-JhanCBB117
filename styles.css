@@ -86,3 +86,9 @@ h3{
 .Halojuegos:hover{
   transform:scale(1.1);
 }
+.HWars{
+  font-family: Arial;
+  font-size: 40px;
+  border-style: solid;
+  border-color: rgb(238, 30, 42)
+}
