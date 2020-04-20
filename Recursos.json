@@ -1,0 +1,14 @@
+my-json-server.typicode.com/jhan/API
+
+{
+  "Artistas": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+]
